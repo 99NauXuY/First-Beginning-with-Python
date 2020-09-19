@@ -1,5 +1,6 @@
 a=10
-print("Hello World!")
+name = "John"
+print("Hello {}!".format(name))
 print("Hello")
 print("was neues")
 
